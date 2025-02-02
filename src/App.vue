@@ -2,6 +2,7 @@
   <div id="app">
     
     <link rel="stylesheet" href="@/assets/projects/projects.css" type="text/css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
 
     <Header />
     <div class="main">
@@ -46,8 +47,13 @@ html, body {
 }
 
 #app {
-  background-color: @contentBgColor;
+  background: @contentBgColor;
   color: @textColor;
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 
   font-family: 'Karla', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
