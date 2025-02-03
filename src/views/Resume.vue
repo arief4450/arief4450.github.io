@@ -14,7 +14,7 @@
 
       <div style="margin-top:20px; margin-bottom:20px;">
         <a class="download-link" href="https://drive.google.com/file/d/1BlcRF5gmEVwenFIzz0MdMLpZ2Ya1bbSm/view?usp=sharing" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download my Resume</a>
-        <a class="download-link" href="https://drive.google.com/file/d/158Uk8oSeZrwhKAZ4ZhP6go_JKb_kOmmR/view?usp=sharing" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download my Portofolio</a>
+        <a class="download-link" href="https://drive.google.com/file/d/1NWhlb1amfgCXBvjfpkoMHFg-Hfvkx2RV/view?usp=sharing" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download my Portofolio</a>
         <div style="clear:both"></div>
       </div>
     </div>
