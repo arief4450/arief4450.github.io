@@ -4,7 +4,7 @@ export default [
     new ProjectData("project-1", "Wargaming Simulator 3D", "img/projects/wgs3d.gif", 
     `
     <div class="paragraph">
-     Currently in development, <strong>Wargaming Simultaor 3D</strong> is a simulator of Real Time Strategy game with a complex mechanism. It's a multiplayer simulator that have classic RTS game with Red vs Blue team but with a dynamic aspect of double platform, the WGS3D only play the outcome of an action that respective team set before in a web app called Wargaming Simulator 2D, hence the name Simulator. 
+     Currently in development, <strong>Wargaming Simulator 3D</strong> is a simulator of Real Time Strategy game with a complex mechanism. It's a multiplayer simulator that have classic RTS game with Red vs Blue team but with a dynamic aspect of double platform, the WGS3D only play the outcome of an action that respective team set before in a web app called Wargaming Simulator 2D, hence the name Simulator. 
      <br/>As far as I know, the application still developed and entering the final stage of development</a>.
     </div>
     <div class="paragraph center">
@@ -86,65 +86,58 @@ export default [
         </div>
         `, "#383838"),
 
-    new ProjectData("project-4", "RSAR AR", "img/projects/RSAR.jpg", `
+    new ProjectData("project-4", "RSAR AR", "img/projects/rsar.gif", `
     <div class="paragraph">
-    <strong>Eugeneable</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-    <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@neo8iam">NEOSiAM 2020</a>.
+    <strong>RSAR Augmented Reality</strong> is a Showcase of the merit of Royal South Australian Regiment in form of a interactable media. The user can scan logos of australian army and it will shown an AR Object that can be interacted using coins and frames. The app itself is already finished development waiting for public release.
+    </div>
+
+    <div class="paragraph center">
+        <iframe class="youtube" src="https://www.youtube.com/embed/gT2jBmzJLkI" frameborder="0" allowfullscreen></iframe>
     </div>
     
     <div class="paragraph">
         Main features :
         <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
+        <li>Smooth animations using Unity Animator and Detailed 3D models</li>
+        <li>Video playback control to adjusting the course of videos</li>
+        <li>Quick image tracking</li>
         </ul>
     </div>
 
     <div class="paragraph">
         <div class="notice">
-        Windows build available on <a href="https://some.where/nice" target="_blank">itch.io</a>.
+        Android Beta Build is available on <a href="https://drive.google.com/file/d/1AMrbCbGJKRQJr5pWWp-ZVo8OG3lA_ZPL/view?usp=sharing" target="_blank">Here</a>. Make sure your Android OS is up to Android 12.
         </div>
     </div>
 
     <div class="paragraph center">
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Eugeneable Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Eugeneable Screenshot" />
+        <img class="pc-screenshot" src="img/projects/RSAR/1.png" alt="RSAR" />
+        <img class="pc-screenshot" src="img/projects/RSAR/2.png" alt="RSAR" />
     </div>
     `, "#fcbe03", false, true),
 
     new ProjectData("project-5", "Hegemony 2", "img/projects/hegemony2.png", `
         <div class="paragraph">
-            <strong>Drawing Overload</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-            <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@miphotography">Miesha Maiden</a>.
+            Currently Under Development<strong> Hegemony 2</strong> is a direct sequel of it's predecessor, Hegemony. First released as a minecraft mod, now it's on the way to be released with Unreal Engine 5 with the promise of better looks and atmosphere.
         </div>
         <div class="paragraph center">
-            <iframe class="youtube" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+            <iframe class="youtube" src="https://www.youtube.com/embed/lqW2t_XXg08" frameborder="0" allowfullscreen></iframe>
         </div>
     
         <div class="paragraph">
             Main features :
             <ul>
-            <li>Some stuff</li>
-            <li>Some great stuff</li>
-            <li>More awesome stuff</li>
-            <li>And then some</li>
+            <li>An Open World Medieval RPG Games that integrate economics and politics system</li>
+            <li>Online Multiplayer using UE Multiplayer Framework</li>
+            <li>Smooth Animations</li>
             </ul>
         </div>
     
-        <div class="paragraph">
-            <div class="notice">
-            Playable in the browser (WebGL) on <a href="https://some.where/nice" target="_blank">itch.io</a>.
-            Source code is available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
-            </div>
-        </div>
-    
         <div class="paragraph center">
-            <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
-            <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
-            <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
-            <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
+            <img class="pc-screenshot" src="img/projects/Hegemony2/1.png" alt="Drawing Overload Screenshot" />
+            <img class="pc-screenshot" src="img/projects/Hegemony2/2.png" alt="Drawing Overload Screenshot" />
+            <img class="pc-screenshot" src="img/projects/Hegemony2/3.png" alt="Drawing Overload Screenshot" />
+            <img class="pc-screenshot" src="img/projects/Hegemony2/4.png" alt="Drawing Overload Screenshot" />
         </div>
         `, "#a9fc03", false, true),
 ];
