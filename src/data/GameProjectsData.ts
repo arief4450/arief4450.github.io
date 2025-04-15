@@ -116,7 +116,7 @@ export default [
     </div>
     `, "#fcbe03", false, true),
 
-    new ProjectData("project-5", "Hegemony 2", "img/projects/hegemony2.png", `
+    /*new ProjectData("project-5", "Hegemony 2", "img/projects/hegemony2.png", `
         <div class="paragraph">
             Currently Under Development<strong> Hegemony 2</strong> is a direct sequel of it's predecessor, Hegemony. First released as a minecraft mod, now it's on the way to be released with Unreal Engine 5 with the promise of better looks and atmosphere.
         </div>
@@ -139,5 +139,5 @@ export default [
             <img class="pc-screenshot" src="img/projects/Hegemony2/3.png" alt="Drawing Overload Screenshot" />
             <img class="pc-screenshot" src="img/projects/Hegemony2/4.png" alt="Drawing Overload Screenshot" />
         </div>
-        `, "#a9fc03", false, true),
+        `, "#a9fc03", false, true),*/
 ];
