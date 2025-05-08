@@ -5,7 +5,7 @@
     <div class="paragraph">
       Hello! My name is <strong>Arief Achmadi Yusra</strong>, a passionate Game Developer with a knack for scripting, problem-solving, and bringing ideas to life in Unity3D and Unreal Engine.
       <br />Whether it's crafting engaging gameplay mechanics, optimizing performance, or diving into VR experiences, I love tackling challenges that push my skills to the next level.
-      <br /> After graduating as a computer science engineer in 2022, I've been working as a Game Unity developer for more than 2 years, since then tech stack that i've usually used mostly Microsoft technologies but I'm open to any other stack (I really do love C# though).
+      <br /> After graduating as a Computer Science Engineer in 2022, I've been working as a Game Peveloper for more than 3 years, since then tech stack that i've usually used mostly Game technologies such as Unreal, Unity, or Godot but I'm open to any other stack (I really do love C# though).
       <br />I love teamwork, but I can also go in solo depending on the mission requirements.
       <br />
       <br />Right now I'm trying to find to <strong>an opportunity to work</strong> with a great and wonderfull team of creative minds and i hope that my presence will benefit our work as a team. <br/>
@@ -42,7 +42,7 @@
       <div class="tech-stack">RPGMaker MV, Javascript, Inkscape, GitHub</div>
 
       <h3>Freelance Project</h3>
-      <h4>2024</h4>
+      <h4>2024 - Now</h4>
 
       <div>Working as a freelance worker, i've managed two projects.<br/>
         1. Hegemony @ Envision Studios,<br/>
@@ -103,6 +103,9 @@
 
       <h3>Indonesian</h3>
       <div>I can yap 24/7 in my mother language</div>
+
+      <h3>Classical Latin</h3>
+      <div>Ego sunt captivatis latinum es duolingo cursum ab ultimo anno. Mea verbum evolvitur aliud quam "Lorem ipsum dolor sit amet"</div>
 
 
       <h2>Besides...</h2>
