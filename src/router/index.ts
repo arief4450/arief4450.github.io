@@ -10,6 +10,11 @@ const routes: Array<RouteConfig> = [
     component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')
   },
   {
+    path: '/catching-cat',
+    name: 'Catching Cat',
+    component: () => import(/* webpackChunkName: "about" */ '../views/CatchingCat.vue')
+  },
+  {
     path: '/resume',
     name: 'Resume',
     component: () => import(/* webpackChunkName: "about" */ '../views/Resume.vue')
