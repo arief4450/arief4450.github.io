@@ -1,4 +1,4 @@
-import ProjectData from '@/data/ProjectData.ts'
+import ProjectData from '@/data/ProjectData'
 
 export default [
     new ProjectData("project-1", "Wargaming Simulator 3D", "img/projects/wgs3d.gif", 
